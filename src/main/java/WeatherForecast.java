@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class WeatherForecast {
     // Replace with your OpenWeatherMap API key
-    private static final String API_KEY = "308feeb8919b9f1f20230652d65744e2";
+    private static final String API_KEY = "replace with your api key";
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/weather?q=";
 
     public static void main(String[] args) {
