@@ -75,7 +75,7 @@ Import the project as a **Maven Project**.
 In `WeatherForecast.java`, replace:
 
 ```java
-private static final String API_KEY = "YOUR_API_KEY";
+private static final String API_KEY = "";
 ```
 
 with your actual API key:
