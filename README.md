@@ -31,11 +31,17 @@ This project is built using **Java**, **Maven**, and **IntelliJ IDEA**, and demo
 
 weatherforecastjava/
 ├── src/
+
 │   └── main/
+
 │       └── java/
+
 │           └── WeatherForecast.java
+
 ├── pom.xml
+
 └── .gitignore
+
 
 ---
 
@@ -55,6 +61,12 @@ Enter the city name: kumbakonam
 Weather forecast for Kumbakonam:
 Temperature: 37.81 °C
 Feels like: 36.21 °C
+
+
+## Output
+
+<img src="image.png" width="700">
+
 
 ---
 
